@@ -83,6 +83,7 @@
             "treeShaking" : {
                 "enable" : true
             }
-        }
+        },
+        "domain" : "static-350340d3-e7ee-4c95-b5d1-c234557b6d8e.bspapp.com"
     }
 }
