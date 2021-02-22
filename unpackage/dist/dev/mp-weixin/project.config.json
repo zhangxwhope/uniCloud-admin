@@ -4,7 +4,10 @@
     "ignore": []
   },
   "setting": {
-    "urlCheck": false
+    "urlCheck": true,
+    "es6": true,
+    "postcss": true,
+    "minified": true
   },
   "compileType": "miniprogram",
   "libVersion": "",
@@ -12,15 +15,19 @@
   "projectname": "uniCloud-admin",
   "condition": {
     "search": {
+      "current": -1,
       "list": []
     },
     "conversation": {
+      "current": -1,
       "list": []
     },
     "game": {
+      "current": -1,
       "list": []
     },
     "miniprogram": {
+      "current": -1,
       "list": []
     }
   }
